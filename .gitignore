@@ -53,3 +53,4 @@ yarn-error.log*
 *.temp
 .agent/
 .github/
+# Caso queira manter os workflows do agent, remova a linha acima
